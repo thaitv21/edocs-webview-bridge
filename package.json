@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "react-native-webview-bridge@0.40.1",
+      "/Users/thanthai/edocs"
+    ]
+  ],
+  "_from": "react-native-webview-bridge@0.40.1",
+  "_id": "react-native-webview-bridge@0.40.1",
+  "_inBundle": false,
+  "_integrity": "sha512-JJmgt3P64KXganhRWivvzITCN5VUC2HdIDZkASUtY8PfsgJP61SAykYnIliUYl1qNq0Pkda4c6Gf1qF8RgfvVg==",
+  "_location": "/react-native-webview-bridge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-webview-bridge@0.40.1",
+    "name": "react-native-webview-bridge",
+    "escapedName": "react-native-webview-bridge",
+    "rawSpec": "0.40.1",
+    "saveSpec": null,
+    "fetchSpec": "0.40.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-webview-bridge/-/react-native-webview-bridge-0.40.1.tgz",
+  "_spec": "0.40.1",
+  "_where": "/Users/thanthai/edocs",
+  "author": {
+    "name": "Ali Najafizadeh"
+  },
+  "bugs": {
+    "url": "https://github.com/alinz/react-native-webview-bridge/issues"
+  },
+  "contributors": [
+    {
+      "name": "Hunter Medney"
+    }
+  ],
+  "dependencies": {
+    "create-react-class": "^15.6.0",
+    "invariant": "^2.2.2",
+    "keymirror": "0.1.1",
+    "prop-types": "^15.5.10"
+  },
+  "description": "React Native WebView Javascript Bridge",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/alinz/react-native-webview-bridge",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "webview-bridge"
+  ],
+  "license": "MIT",
+  "main": "webview-bridge",
+  "name": "react-native-webview-bridge",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alinz/react-native-webview-bridge.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.40.1"
+}
